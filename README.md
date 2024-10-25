@@ -22,6 +22,7 @@ This project is a React Native Expo app integrated with Dfinity's Internet Ident
        android -> "expo run:android"
       ios-> "expo run:ios"
    ```
+
 ## Next Steps
 
 Once a user is authorized, you can now create an actor using the sample code below:
