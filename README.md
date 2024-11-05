@@ -51,5 +51,5 @@ Once a user is authorized, you can now create an actor using the sample code bel
 For above code sample, make sure to import createActor from the canister's generated declarations.
 
 ## References
-https://github.com/internet-identity-labs/motoko-bootcamp/tree/main
-https://github.com/krpeacock/ic-expo-mvp
+1. [https://github.com/internet-identity-labs/motoko-bootcamp/tree/main](https://github.com/internet-identity-labs/motoko-bootcamp/tree/main) 
+2. [https://github.com/krpeacock/ic-expo-mvp](https://github.com/krpeacock/ic-expo-mvp)
