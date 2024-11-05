@@ -19,7 +19,7 @@ This project is a React Native Expo app integrated with Dfinity's Internet Ident
    ```
 3. Build the app 
    ```bash
-       android -> "expo run:android"
+      android -> "expo run:android"
       ios-> "expo run:ios"
    ```
 
@@ -48,4 +48,8 @@ Once a user is authorized, you can now create an actor using the sample code bel
    });
 
    ```
- For above code sample, make sure to import createActor from the canister's generated declarations.
+For above code sample, make sure to import createActor from the canister's generated declarations.
+
+## References
+https://github.com/internet-identity-labs/motoko-bootcamp/tree/main
+https://github.com/krpeacock/ic-expo-mvp
